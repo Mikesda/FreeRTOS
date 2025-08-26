@@ -1,7 +1,7 @@
 {
     "version":            "1.2",
     "project_name":       "hello_world",
-    "project_version":    "82ad9df",
+    "project_version":    "bafde2f-dirty",
     "project_path":       "C:/Users/labsfiap/Downloads/FreeRTOS/hello_world",
     "idf_path":           "D:/5ECA/esp-idf-v5.4.2",
     "build_dir":          "C:/Users/labsfiap/Downloads/FreeRTOS/hello_world/build",
